@@ -1,4 +1,4 @@
-package mystructs
+package PluginTest
 
 type MyStruct struct {
 	Name string
